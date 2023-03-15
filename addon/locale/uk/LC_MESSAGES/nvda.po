@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the 'HeadphoneFinder' package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 'HeadphoneFinder' '0.1'\n"
+"Report-Msgid-Bugs-To: 'nvda-translations@freelists.org'\n"
+"POT-Creation-Date: 2023-03-14 10:59+0200\n"
+"PO-Revision-Date: 2023-03-14 11:09+0200\n"
+"Last-Translator: Heorhii <nvda.translation.uk@gmail.com>\n"
+"Language-Team: \n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. Translators: script category for headphone finder add-on gestures
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on to be shown on installation and add-on information.
+#: addon\globalPlugins\headphoneFinder.py:15 buildVars.py:17
+msgid "Headphone Finder"
+msgstr "Пошук навушників"
+
+#. Translators: plays a tone at the left.
+#: addon\globalPlugins\headphoneFinder.py:31
+msgid "plays a tone at the left speaker."
+msgstr "відтворює сигнал у лівому динаміку."
+
+#. Translators: plays a tone at the right.
+#: addon\globalPlugins\headphoneFinder.py:38
+msgid "plays a tone at the right speaker."
+msgstr "відтворює сигнал у правому динаміку."
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:20
+msgid ""
+"This add-on has two scripts, to beep to the left or the right, this can help "
+"you to find your bluetooth headphone."
+msgstr ""
+"Цей додаток має два сценарії, він відтворює звуковий сигнал в лівому або в "
+"правому навушнику, це може допомогти вам знайти ваші bluetooth-навушники."
