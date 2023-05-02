@@ -6,7 +6,7 @@ Copyright (C) 2023 David CM <dhf360@gmail.com>
 This package is distributed under the terms of the GNU General Public License, version 2 or later.
 
 ## Download.
- The latest release is available to [download in this link](https://davidacm.github.io/getlatest/gh/davidacm/NVDA-HeadphoneFinder)
+ The latest release is available to [download in this link](https://davidacm.github.io/getlatest/gh/davidacm/NVDA-HeadphoneFinder/?index=1)
 
 ## Usage
 
