@@ -1,6 +1,6 @@
 # -*- coding: UTF-8 -*-
 # Headphone Finder: """This add-on has two scripts, to beep to the left or the right, this can help you to find your bluetooth headphone.
-# Copyright (C) 2023 David CM
+# Copyright (C) 2023 - 2024 David CM
 # Author: David CM <dhf360@gmail.com>
 # Released under GPL 2
 #globalPlugins/headphoneFinder.py
